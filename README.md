@@ -13,7 +13,8 @@ A smart travel agent powered by Google's Gemini 2.0 Flash model. This applicatio
 > [!NOTE]
 > **Mock Data**: The application currently runs on mock data for demonstration purposes due to API access restrictions.
 
-![Streamlit App Interface](file:///C:/Users/Owner/.gemini/antigravity/brain/6ef15de3-bd6d-4b1a-9c53-87fb6cfc4777/streamlit_app_1764548521349.png)
+<img width="1882" height="873" alt="Screenshot 2025-11-30 170716" src="https://github.com/user-attachments/assets/4a814838-3d12-43ba-84aa-b85a0b13a10a" />
+
 
 ## 🛠️ Setup
 
